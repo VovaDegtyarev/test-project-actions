@@ -1,0 +1,15 @@
+D:\TestProject\WebAppSolution\WebApp.BL\bin\Debug\net5.0\WebApp.BL.deps.json
+D:\TestProject\WebAppSolution\WebApp.BL\bin\Debug\net5.0\WebApp.BL.dll
+D:\TestProject\WebAppSolution\WebApp.BL\bin\Debug\net5.0\ref\WebApp.BL.dll
+D:\TestProject\WebAppSolution\WebApp.BL\bin\Debug\net5.0\WebApp.BL.pdb
+D:\TestProject\WebAppSolution\WebApp.BL\bin\Debug\net5.0\WebApp.DAL.dll
+D:\TestProject\WebAppSolution\WebApp.BL\bin\Debug\net5.0\WebApp.DAL.pdb
+D:\TestProject\WebAppSolution\WebApp.BL\obj\Debug\net5.0\WebApp.BL.csprojAssemblyReference.cache
+D:\TestProject\WebAppSolution\WebApp.BL\obj\Debug\net5.0\WebApp.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProject\WebAppSolution\WebApp.BL\obj\Debug\net5.0\WebApp.BL.AssemblyInfoInputs.cache
+D:\TestProject\WebAppSolution\WebApp.BL\obj\Debug\net5.0\WebApp.BL.AssemblyInfo.cs
+D:\TestProject\WebAppSolution\WebApp.BL\obj\Debug\net5.0\WebApp.BL.csproj.CoreCompileInputs.cache
+D:\TestProject\WebAppSolution\WebApp.BL\obj\Debug\net5.0\WebApp.BL.csproj.CopyComplete
+D:\TestProject\WebAppSolution\WebApp.BL\obj\Debug\net5.0\WebApp.BL.dll
+D:\TestProject\WebAppSolution\WebApp.BL\obj\Debug\net5.0\ref\WebApp.BL.dll
+D:\TestProject\WebAppSolution\WebApp.BL\obj\Debug\net5.0\WebApp.BL.pdb

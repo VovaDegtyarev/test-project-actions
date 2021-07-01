@@ -1,0 +1,12 @@
+D:\TestProject\WebAppSolution\WebApp.DAL\bin\Debug\net5.0\WebApp.DAL.deps.json
+D:\TestProject\WebAppSolution\WebApp.DAL\bin\Debug\net5.0\WebApp.DAL.dll
+D:\TestProject\WebAppSolution\WebApp.DAL\bin\Debug\net5.0\ref\WebApp.DAL.dll
+D:\TestProject\WebAppSolution\WebApp.DAL\bin\Debug\net5.0\WebApp.DAL.pdb
+D:\TestProject\WebAppSolution\WebApp.DAL\obj\Debug\net5.0\WebApp.DAL.csprojAssemblyReference.cache
+D:\TestProject\WebAppSolution\WebApp.DAL\obj\Debug\net5.0\WebApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProject\WebAppSolution\WebApp.DAL\obj\Debug\net5.0\WebApp.DAL.AssemblyInfoInputs.cache
+D:\TestProject\WebAppSolution\WebApp.DAL\obj\Debug\net5.0\WebApp.DAL.AssemblyInfo.cs
+D:\TestProject\WebAppSolution\WebApp.DAL\obj\Debug\net5.0\WebApp.DAL.csproj.CoreCompileInputs.cache
+D:\TestProject\WebAppSolution\WebApp.DAL\obj\Debug\net5.0\WebApp.DAL.dll
+D:\TestProject\WebAppSolution\WebApp.DAL\obj\Debug\net5.0\ref\WebApp.DAL.dll
+D:\TestProject\WebAppSolution\WebApp.DAL\obj\Debug\net5.0\WebApp.DAL.pdb
