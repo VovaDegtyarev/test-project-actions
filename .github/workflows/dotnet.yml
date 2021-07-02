@@ -2,9 +2,8 @@ name: .Net 5 CI
 
 on:
   push:
-    tags: 
-      - v*
-    branches: [ master ]
+    branches: 
+    - 'refs/tags/*'
   pull_request:
     branches: [ master ]
 
