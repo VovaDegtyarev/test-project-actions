@@ -1,9 +1,11 @@
 name: .Net 5 CI
 
 on:
+  create: 
+    tags:
+      - 'v*'
   push:
-    branches: 
-    - 'refs/tags/*'
+    branches: [ master ]
   pull_request:
     branches: [ master ]
 
